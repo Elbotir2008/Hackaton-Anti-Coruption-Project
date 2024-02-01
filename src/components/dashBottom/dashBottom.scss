@@ -1,0 +1,20 @@
+.bot {
+  grid-template-columns: auto auto auto;
+  margin-top: 5rem;
+  margin-bottom: 10rem;
+  h1 {
+    color: #808d9b;
+    font-size: 2rem;
+    span {
+      color: #7a7dfe;
+    }
+  }
+  ul {
+    gap: 1rem;
+    margin-right: -15rem;
+    li {
+        font-size: 2rem;
+      color: #7a7dfe;
+    }
+  }
+}
